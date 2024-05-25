@@ -20,7 +20,7 @@ const Image = ({ className }: { className?: string }) => {
         initial="initial"
         animate="animate"
         transition={{ duration: 1.2, ease: "circOut" }}
-        src="/flowers.jpg"
+        src="/flowers.webp"
         className="w-full h-full rounded-3xl"
         style={{ objectFit: "contain" }}
       ></motion.img>
