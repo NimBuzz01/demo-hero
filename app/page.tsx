@@ -28,7 +28,7 @@ export default function Home() {
         <div className="flex flex-col lg:flex-row gap-10 p-6 sm:p-10 items-center justify-center min-h-screen pt-24 sm:pt-40 lg:pt-20">
           <div className="flex flex-col gap-6 sm:gap-10 lg:w-3/5 w-full">
             <Title
-              text="Welcome to Plantica - Where Creativity Blooms!"
+              text="Welcome to Plantica, Where Creativity Blooms!"
               key={2}
             />
             <Subtitle

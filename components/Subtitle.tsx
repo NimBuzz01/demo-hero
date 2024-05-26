@@ -45,7 +45,7 @@ const Subtitle = ({
               <motion.span
                 key={`${wordIndex}-${letterIndex}`}
                 variants={letterVariants}
-                className="text-base sm:text-xl font-medium tracking-wide"
+                className="text-base sm:text-lg lg:text-xl font-medium tracking-wide"
               >
                 {letter}
               </motion.span>
